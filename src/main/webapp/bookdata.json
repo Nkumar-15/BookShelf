@@ -1,0 +1,62 @@
+{
+   "books_data": [
+      {
+         "Title": "Data Structure Using C",
+         "Authorname": "Sharad Kumar Verma",
+         "Publisher": "Thakur Publications Lucknow ",
+         "Publisheddate": "2015",
+         "Genre":"Computer Science"
+         
+      },
+      {
+          "Title": "CBOT",
+         "Authorname": "Gunjan Verma",
+         "Publisher": "Thakur Publications",
+         "Publisheddate": "2014",
+         "Genre":"Computer Science"
+      },
+      {
+            "Title": "Hamlet",
+         "Authorname": "William Shakeshpeare",
+         "Publisher": "Dover",
+         "Publisheddate": "1601",
+         "Genre":"Drama"
+      },
+      {
+            "Title": "Pride and Prejudice",
+         "Authorname": "Austen",
+         "Publisher": "Mordern Library",
+         "Publisheddate": "1815",
+         "Genre":"Novel"
+      },
+      {
+         "Title": "Client Server Computing",
+         "Authorname": "Lalit Kumar",
+         "Publisher": "Sun India Publications",
+         "Publisheddate": "2012",
+         "Genre":"Computer Science"
+      },
+      {
+         "Title": "Computer Networks",
+         "Authorname": "Saurabh Singha",
+         "Publisher": "Thakur Publications",
+         "Publisheddate": "2015",
+         "Genre":"Computer Science"
+      },
+      {
+         "Title": "Oliver Twist",
+         "Authorname": "Dickens",
+         "Publisher": "Penguin Classics",
+         "Publisheddate": "1850",
+         "Genre":"Novel"
+      },
+      {
+         "Title": "Macbeth",
+         "Authorname": "William Shakeshpeare",
+         "Publisher": "Dover",
+         "Publisheddate": "1601",
+         "Genre":"Novel"
+      }
+
+   ]
+}
